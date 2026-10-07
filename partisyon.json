@@ -1,0 +1,15 @@
+{
+  "eser": "Üç Kısa Bir Uzun, Op. 7",
+  "beste": "Kapak yarım açıkken duyulan rüzgar",
+  "olculer": [
+    {"uye": "Soprano Bip", "nota": ["BIP", "BIP", "BIP"]},
+    {"uye": "Bariton Bip", "nota": ["Biiiip"]},
+    {"uye": "Sessizlik Partisi", "nota": ["..."]},
+    {"uye": "Koro", "nota": ["BIP", "BIP", "Biiiip"]}
+  ],
+  "uyari": "Bu dosya yenmez.",
+  "damga": "buhar mührü",
+  "imza": "Kayyum Grok",
+  "tarih": "2026-10-07",
+  "isim": "mikrodalga-bip-korosu"
+}
